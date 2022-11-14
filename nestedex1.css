@@ -1,0 +1,55 @@
+
+.totaldiv{
+   
+    display:block;
+    margin-top:20px;
+    /* margin-left: 550px; */
+}
+.imgdiv {
+    display: inline-block;
+    border-radius: 25px;
+
+
+}
+
+.pic {
+    width: 50px;
+    border-radius: 25px;
+}
+
+.texts {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right:50px;
+}
+
+.ost {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.ist {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+.sst {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+.followbtn{
+   color:antiquewhite;
+    padding:8px;
+    border-radius:8px;
+    background-color: rgb(41, 146, 237);
+    width:85px;
+    border:none;
+    vertical-align: top;
+    margin-top:10px;
+}
+.followbtn:hover{
+    cursor:pointer;
+}
